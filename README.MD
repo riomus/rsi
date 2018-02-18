@@ -1,1 +1,0 @@
-# Rozproszone Systemy Informatyczne
