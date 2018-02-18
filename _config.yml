@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/"
-url: "https://rozproszone.ml"
+baseurl: ""
+url: "http://rozproszone.ml"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
