@@ -1,0 +1,1 @@
+# Lista 1 - część 1, tydzień parzysty
