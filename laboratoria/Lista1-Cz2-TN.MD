@@ -1,4 +1,4 @@
-# Lista 1 - część 2, tydzień nie parzysty
+# Lista 1 - część 2, tydzień nie arzysty
 
 1. Zaimplementuj aplikację zgodnie z poleceniem dla części 2 z eportalu (dowolne 4 procedury, jedna z nich sortująca)
 2. Spraw aby aplikacja kliencka była również serwerem

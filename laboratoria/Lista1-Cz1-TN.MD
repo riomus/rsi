@@ -1,4 +1,4 @@
-# Lista 1 - część 1, tydzień nie parzysty
+# Lista 1 - część 1, tydzień nieparzysty
 
 1. Zaimplementuj klienta i serwer zgodnie z poleceniami dla części 1 z eportalu
 2. Dodaj metodę asynchronicznę po stronie klienta i serwera która sortuje podane liczby (Arrays.sort)
