@@ -8,3 +8,9 @@
 6. Wiadomość powinna powędrować do odpowiedniego odbiorcy, rezultat wykonania powinien być odesłany do nadawcy
 7. Spraw by można było w ten sposób wykonać dowolną procedurę na kliencie o identyfikatorze n
 8. Odpowiednio obsłuż sytuację w której wysyłana jest wiadomość do nieistniejącego klienta
+
+
+
+# Modyfikacja na zajęciach
+
+TBA (Nie będzie to nic z sortowaniem)

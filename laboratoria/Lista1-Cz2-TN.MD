@@ -8,3 +8,11 @@
 6. Wiadomość powinna powędrować przez cały pierścień (lub jego fragment), rezultat wykonania powinien być odesłany do nadawcy
 7. Spraw by można było w ten sposób wykonać dowolną procedurę na kliencie o identyfikatorze n
 8. Odpowiednio obsłuż sytuację w której wysyłana jest wiadomość do nieistniejącego klienta
+
+
+# Modyfikacja na zajęciach
+
+1. Zaimplementuj w aplikacji metodę asynchroniczną playTableTenis - metoda ma przyjmować komendę, na komendę PING(PONG) odpowiada PONG(PING) nadawcy, komenda CUT_SHOT wyłącza aplikację
+2. Metoda ma w sposób losowy odpowiadać komendą CUT_SHOT zamiast PING(PONG) (random() < k)
+3. Spraw aby przy uruchomieniu można było wybrać 2 klientów którzy będą ze sobą grać (komunikując się po pierścieniu)
+4. Zaprezentuj grę
