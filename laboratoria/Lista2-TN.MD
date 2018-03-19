@@ -6,7 +6,7 @@
 	Modyfikacja:
 
 	- Jedna aplikacja która może się uruchaiać w trybie workera lub farmera (jeden main,  bez kopiowania kodu)
-	- Uruchamiamy farmer + co najmniej 3 workerów (liczba workerów ma być konfigurowalna)
+	- Uruchamiamy farmer + co najmniej 4 workerów (liczba workerów ma być konfigurowalna)
 	- Zadnie dzielone jest na n workerów i uruchamiane, a następnie wynik jest łączony na farmerze 
 	- Do uruchomienia zadania wykorzystaj parallel streams (lub inną metodę pozwalającą uruchomić zadania równocześnie na wszystkich workerach)
 	- Przykłady zadań:
