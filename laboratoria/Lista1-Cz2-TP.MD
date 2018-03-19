@@ -13,4 +13,9 @@
 
 # Modyfikacja na zajęciach
 
-TBA (Nie będzie to nic z sortowaniem)
+
+1. Zaimplementuj w aplikacji możliwość gry w zgadywanie liczb. 
+
+  - wysyłamy do jednego z klientów/serwerów komendę wylosowania liczby (zakres)
+  - zgadujemy jaka to liczba
+  - dostajemy odpowiedź czy zgdaliśmy bądź też czy tajna liczba jest większa/mniejsza
