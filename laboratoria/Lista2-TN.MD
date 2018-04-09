@@ -16,3 +16,10 @@
 		- ...
 
 4. Na zajęciach konieczna będzie nieznaczna modyfikacja programu kluczowa dla zaliczenia zadania. 
+
+
+## Modyfikacja na zajęciach
+
+1. Każdy worker prócz wyniku ma zwracać czas obliczeń (od otrzymania zadania do przesłania wyniku)
+2. "Farmer" ma wypisywać czas który zajęły obliczenia (od przesłania zadania do pierwszego workera, do otrzymania ostatniego wyniku), czasy workerów oraz średni czas workera
+3. Daj możliwość specyfikacji czy zadania mają być uruchamiane na workerach sekwencyjnie czy równolegle (pytanie przy uruchomieniu farmera)
