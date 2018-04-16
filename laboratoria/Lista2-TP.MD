@@ -19,6 +19,6 @@
 
 ## Modyfikacja na zajęciach
 
-1."Farmer" prócz zadania ma przesyłać do workerów losową liczbę
+1. "Farmer" oprócz zadania ma przesyłać do workerów losową liczbę
 2. Każdy worker oprócz wyniku ma zwracać losową liczbę wyznaczoną wykorzystując liczbę od farmera jako ziarno
 3. "Farmer" ma wypisywać średnią wartość losowych liczb oraz ich wartości dla każdego workera
