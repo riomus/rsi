@@ -13,3 +13,4 @@
 2. Stwórz kontrakt danych dla typu RandomSpecification zawierający seed, min, max
 2. Stwórz kontrakt danych dla typu RandomResult zawierający result, time
 3. Zaimplementuj metodę random zwracającą typ RandomResult, metoda ma wylosować liczbę całkowitą z zakresu (min, max), wykorzystując ziarno (seed)
+4. Wgraj na eportal wszystkie implementacje(modyfikacja, wersja a, wersja a - dodatek itd.)
