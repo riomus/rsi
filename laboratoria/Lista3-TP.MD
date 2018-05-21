@@ -8,4 +8,9 @@
 
 ## Modyfikacja na zajęciach
 
-1. 
+
+1. Stwórz serwis z metodą random przyjmujący typ opisany kontraktam danych RandomSpecification, zwracającą RandomResult
+2. Stwórz kontrakt danych dla typu RandomSpecification zawierający tablicę liczb całkowitych
+2. Stwórz kontrakt danych dla typu RandomResult zawierający result, time
+3. Zaimplementuj metodę random zwracającą typ RandomResult, metoda ma wylosować liczbę z podanej tablicy
+4. Wgraj na eportal wszystkie implementacje(modyfikacja, wersja a, wersja a - dodatek itd.)
