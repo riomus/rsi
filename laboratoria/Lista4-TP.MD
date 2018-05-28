@@ -11,4 +11,4 @@ Część 2 (osobna metoda)
 
 ## Modyfikacja na zajęciach
 
-1.
+1. Dodaj metodę asynchroniczną przyjumującą obiekt zapytania zawierający dowolną datę a zwracającą różnicę (w dowolnej jednostce) pomiędzy aktualną datą a tą podaną. 
