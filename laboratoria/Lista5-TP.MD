@@ -10,7 +10,7 @@ Technologia dowolna (Dla niezdecydowanych zgodnie z listą 5 z e-portalu)
 2. Przećwicz prezentowanie wszystkich metod serwisu z wykorzystaniem dowolnego narzędzie (Postman, Advanced Rest Client, Curl itd.)
 3. Zaimplementuj klienta serwisu 
  - musi pozwalać na wywoływanie wszystkich metod
- - może być w innej technologii nić serwer
+ - może być w innej technologii niż serwer
  - Zaimplementuj aplikację konsolową korzystającą z klienta i wykonującą wszystkie operacje
 4. Stwórz projekt webowy prezentujący w przeglądarce wynik dowolnego zapytania 
  - Angular, React (create-react-app) lub inny dowolny
@@ -20,4 +20,8 @@ Technologia dowolna (Dla niezdecydowanych zgodnie z listą 5 z e-portalu)
 
 ## Modyfikacja na zajęciach
 
-1.
+1. Dodaj metodę do serwisu:
+ - POST
+ - Przyjmuje parametr w ciele zapytania
+ - Parameter to obiekt zawierający pole typu całkowitoliczbowego
+ - Po wywołaniu metoda generuje w serwisie zadaną liczbą encji 
