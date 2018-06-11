@@ -21,4 +21,9 @@ Technologia dowolna (Dla niezdecydowanych zgodnie z listą 5 z e-portalu)
 ## Modyfikacja na zajęciach
 
 1. Dodaj metodę do serwisu:
- - ???
+ - POST
+ - Przyjmuje parametr w ciele zapytania
+ - Parameter to obiekt zawierający dwa pola a, b typu całkowitoliczbowego
+ - Po wywołaniu metoda
+ 	- generuje n losowych encji gdzie n jest z zakresu [a,b]
+ 	- encje są losowe i mają różne atrybuty
